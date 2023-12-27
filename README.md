@@ -15,8 +15,8 @@ I'm an Undergraduate Student from IIT Kharagpur, India. I love Linux and current
 </p>
 
 <a href="https://github.com/PsychoPunkSage">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=proffapt&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PsychoPunkSage&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 <a href="https://github.com/PsychoPunkSage">
-<img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=proffapt&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
+<img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PsychoPunkSage&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
