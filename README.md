@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br>I'm Abhinav Prakash \<PsychoPunkSage>
 ==========================================================================================================================================================
 
-#System and Blockchain dev
-#-------------------------
 
 I'm an Undergraduate Student from IIT Kharagpur, India. I love Linux and currently working on Blockchain and playing Go and Rust. Personally I don't like frontend and Javascript a lot, kind of a backend guy 🤓.
 
