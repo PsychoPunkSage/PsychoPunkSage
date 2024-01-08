@@ -20,3 +20,9 @@ I'm an Undergraduate Student from IIT Kharagpur, India. I love Linux and current
 <a href="https://github.com/PsychoPunkSage">
 <img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PsychoPunkSage&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
+
+
+<a href="https://www.linkedin.com/in/psychopunksage/">
+  <img src="https://komarev.com/ghpvc/?username=psychopunksage&style=flat-square" align="right"/>
+</a> 
+</p>
