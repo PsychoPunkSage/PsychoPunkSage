@@ -7,7 +7,7 @@ I'm an Undergraduate Student from IIT Kharagpur, India. I love Linux and current
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [helloabhinav](http://helloabhinav.vercel.app/)
 
-### Skills:
+### Skills
 
 
 <p align="left">
