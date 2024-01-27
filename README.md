@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================================
 
 
-I'm an Undergraduate Student from IIT Kharagpur, India. I love Linux and currently working on Blockchain and playing Go and Rust. Personally I don't like frontend and Javascript a lot, kind of a backend guy 🤓.
+I'm an Undergraduate Student from IIT Kharagpur, India. I love Linux and currently working on Blockchain and RUTSing and GOing along the way. Personally I don't like frontend and Javascript a lot, kind of a backend guy 🤓.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [helloabhinav](http://helloabhinav.vercel.app/)
