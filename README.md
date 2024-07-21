@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================================
 
 
-I'm an undergrad at IIT Kharagpur, India, with an insatiable passion for Linux and a deep dive into the world of Blockchain. Proudly wearing the badges of a Rustacean and a Gopher, I revel in the art of system programming. Frontend and JavaScript? Not quite my cup of tea. I'm all about the nitty-gritty of systems and backend magic!
+I'm an undergrad at IIT Kharagpur, India, with an insatiable passion for Linux and a deep dive into the world of Blockchain. Proudly wearing the badges of a RUSTacean and a GOpher, I revel in the art of system programming. Frontend and JavaScript? Not quite my cup of tea. I'm all about the nitty-gritty of systems and backend magic!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [helloabhinav](http://helloabhinav.vercel.app/)
