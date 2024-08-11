@@ -6,7 +6,7 @@ I'm an undergrad at IIT Kharagpur, India, with an insatiable passion for Linux a
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [helloabhinav](http://helloabhinav.vercel.app/)
-* 🌙  I'm **Dark Mode** user
+* 🌙   I'm **Dark Mode** user
    <details>
    <summary>
    Why?
