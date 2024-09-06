@@ -11,7 +11,7 @@ I'm an undergrad at IIT Kharagpur with a strong passion for Linux and a deep foc
    <summary>
    Why?
    </summary>
-   Because the light attracts too many bugs! 🐛
+   Because light attracts too many bugs! 🐛
    </details>
 
 <a href="https://github.com/PsychoPunkSage">
