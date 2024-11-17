@@ -6,12 +6,12 @@ I'm an undergrad at IIT Kharagpur with a strong passion for Linux and a deep foc
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [helloabhinav](http://helloabhinav.vercel.app/)
-* 🌙   I'm **Dark Mode** user
+* 🌙  I live in **Dark Mode**.
    <details>
    <summary>
    Why?
    </summary>
-   Because light attracts too many bugs! 🐛
+   Because in the shadows, bugs fear to tread! 🐛
    </details>
 
 <a href="https://github.com/PsychoPunkSage">
@@ -20,4 +20,3 @@ I'm an undergrad at IIT Kharagpur with a strong passion for Linux and a deep foc
 <a href="https://github.com/PsychoPunkSage">
 <img width="460" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PsychoPunkSage&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
 </a>
-
