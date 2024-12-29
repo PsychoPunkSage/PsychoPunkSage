@@ -11,7 +11,7 @@ I'm an undergrad at IIT Kharagpur with a strong passion for Linux and a deep foc
    <summary>
    Why?
    </summary>
-   Because in the shadows, bugs fear to tread! 🐛
+   Because in the shadows, bugs fear to thread! 🐛
    </details>
 
 <a href="https://github.com/PsychoPunkSage">
