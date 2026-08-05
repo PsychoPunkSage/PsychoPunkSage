@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm an undergrad at IIT Kharagpur with a strong passion for Linux. As a Rust and Go enthusiast, I specialize in system programming, distributed systems, and working on the core aspects of backend systems. Frontend and JavaScript? :p . I thrive in building and optimizing backend/distributed infrastructures and low-level systems.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [psyhcopunksage](https://psychopunksage.dev)
+* 🖥️  See my portfolio at [psychopunksage](https://psychopunksage.dev)
 * 🌙  I live in **Dark Mode**.
    <details>
    <summary>
