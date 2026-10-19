@@ -9,7 +9,7 @@ Systems engineer. I work close to the OS: kernel drivers, filesystems, networkin
 
 Currently a Rust Developer at Supra, building and running concurrent backend services in production. B.Tech + M.Tech (Dual Degree), IIT Kharagpur.
 
-Open source: Ockam, IPFS Kubo, Hyperledger Fabric Private Chaincode, Fedimint, Starknet.go.
+**Open source**: Ockam, IPFS Kubo, Hyperledger Fabric Private Chaincode, Fedimint, Starknet.go.
 
 <!--
 Frontend and JavaScript? :p . I thrive in building and optimizing backend/distributed infrastructures and low-level systems.
