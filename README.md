@@ -29,15 +29,15 @@ Frontend and JavaScript? :p . I thrive in building and optimizing backend/distri
 </a>
 -->
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/PsychoPunkSage"><img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PsychoPunkSage&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/PsychoPunkSage"><img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PsychoPunkSage&layout=compact&langs_count=8&theme=nightowl"/></a>
-</p> -->
-<p align="center">
+</p>
+<!-- <p align="center">
   <a href="https://github.com/PsychoPunkSage">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=PsychoPunkSage&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/PsychoPunkSage">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsychoPunkSage&layout=compact&langs_count=8&theme=nightowl"/>
   </a>
-</p>
+</p> -->
